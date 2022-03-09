@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Currently looking for internship, fall 2022! 
+📧: marialundhammar@gmail.com 
+
 
 <!--
 **marialundhammar/marialundhammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
