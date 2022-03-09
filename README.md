@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently looking for internship, fall 2022! \n
+Currently looking for internship, fall 2022! <br>
 📧: marialundhammar@gmail.com 
 
 
