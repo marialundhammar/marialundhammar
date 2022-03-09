@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Node JS, JavaScript, Express, Bookshelf, MySQL 
 
-
+👩‍💻 frontend development @Mediainstitutet in Malmö 
 <!--
 **marialundhammar/marialundhammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-### Studing <b>frontend development @Mediainstitutet in Malmö </b>. 
+
 
 <h3> In school I have gained knowledge (this far) in: </h3>
 <ul>
