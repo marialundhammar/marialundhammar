@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 
 
-### About Me - Maria Haara Lundhammar 😎 
+### <u> About Me - Maria Haara Lundhammar </u> 😎 
 Studing <b>frontend development @Mediainstitutet in Malmö </b>. 
 
 In school I have gained knowledge (this far) in: 
