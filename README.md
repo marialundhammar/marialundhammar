@@ -23,10 +23,9 @@ Here are some ideas to get you started:
 -->
 
 
-### <u> About Me - Maria Haara Lundhammar </u> 😎 
-Studing <b>frontend development @Mediainstitutet in Malmö </b>. 
+### Studing <b>frontend development @Mediainstitutet in Malmö </b>. 
 
-In school I have gained knowledge (this far) in: 
+<h4> In school I have gained knowledge (this far) in: </h4>
 <ul>
   <li> HTML </li>
   <li> CSS and Bootstrap </li>
