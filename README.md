@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 
 
-### About Me 
-One of my biggest interests is the development of the digital world and I found it very exciting thinking of how technology really can impact people's everyday lives. That is also why I started studying frontend development @Mediainstitutet in Malmö. 
+### 😎 About Me 
+One of my biggest interests is the development of the digital world and I thought it was very exciting to think about how technology can really affect people's everyday lives. That is also why I previously studied UX design and now diving into <b>frontend development @Mediainstitutet in Malmö </b>. 
 
 In school I have gained knowledge (this far) in: 
 <ul>
