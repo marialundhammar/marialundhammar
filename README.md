@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ### Studing <b>frontend development @Mediainstitutet in Malmö </b>. 
 
-<h4> In school I have gained knowledge (this far) in: </h4>
+<h2> In school I have gained knowledge (this far) in: </h2>
 <ul>
   <li> HTML </li>
   <li> CSS and Bootstrap </li>
