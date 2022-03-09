@@ -26,10 +26,24 @@ Here are some ideas to get you started:
 ### About Me 
 One of my biggest interests is the development of the digital world and I found it very exciting thinking of how technology really can impact people's everyday lives. That is also why I started studying frontend development @Mediainstitutet in Malmö. 
 
-<ul>In school I have gained knowledge this far in: </ul>
-
+In school I have gained knowledge this far in: 
+<ul>
   <li> HTML </li>
-   <li> HTML </li>
-    <li> HTML </li>
-     <li> HTML </li>
+  <li> CSS and Bootstrap </li>
+  <li> Vanilla JavaScript </li>
+  <li> mySQL </li>
+  <li> Node JS </li>
+  <li> Express </li>
+  <li> Figma </li>
+  <li> Adobe Photoshop, Illustrator and Adobe XD </li>
+  
+</ul>
+
+... and by June I will also have learned: 
+<ul>
+  <li> TypeScript</li>
+  <li> React </li>
+  <li> APIs</li>
+  <li> MongoDB </li>
+</ul>
   
