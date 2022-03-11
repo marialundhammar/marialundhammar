@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
-<h3> In school I have gained knowledge (this far) in: </h3>
+<h3> In school I've gained knowledge (this far) in: </h3>
 <ul>
   <li> HTML </li>
   <li> CSS and Bootstrap </li>
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 </ul>
 
-... and by June I will also have learned: 
+... and by June I'll also have learned: 
 <ul>
   <li> TypeScript</li>
   <li> React </li>
