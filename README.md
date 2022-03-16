@@ -22,27 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-<h3> In school I've gained knowledge (this far) in: </h3>
-<ul>
-  <li> HTML </li>
-  <li> CSS and Bootstrap </li>
-  <li> Vanilla JavaScript </li>
-  <li> mySQL </li>
-  <li> Node JS </li>
-  <li> Express </li>
-  <li> Figma </li>
-  <li> Adobe Photoshop, Illustrator and Adobe XD </li>
-  
-</ul>
-
-... and by June I'll also have learned: 
-<ul>
-  <li> TypeScript</li>
-  <li> React </li>
-  <li> APIs</li>
-  <li> MongoDB </li>
-</ul>
+Skills and tools:
+html5 css3 javascript react figma illustrator xd
   
