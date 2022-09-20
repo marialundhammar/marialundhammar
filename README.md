@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🤔 Currently looking for internship, fall 2022! <br> 
+🤔 Currently looking for internship, spring 2023! <br> 
 
 📫 How to reach me: marialundhammar@gmail.com
 
-🌱 I’m currently learning Node JS, JavaScript, Express, Bookshelf, MySQL 
+🌱 I’m currently learning JavaScript, React, Vue, Typescript and Tailwind.  
 
 👩‍💻 Studing frontend development @Mediainstitutet in Malmö 
 <!--
