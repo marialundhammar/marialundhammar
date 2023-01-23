@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-🤔 Currently looking for internship, spring 2023! <br> 
 
 📫 How to reach me: marialundhammar@gmail.com
 
