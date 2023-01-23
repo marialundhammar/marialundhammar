@@ -3,7 +3,7 @@
 
 📫 How to reach me: marialundhammar@gmail.com
 
-🌱 I’m currently learning JavaScript, React, Vue, Typescript and Tailwind.  
+🌱 I’m currently learning JavaScript, React, React Native, Vue, and Typescript.  
 
 👩‍💻 Studing frontend development @Mediainstitutet in Malmö 
 <!--
