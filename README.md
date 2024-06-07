@@ -3,9 +3,9 @@
 
 📫 How to reach me: marialundhammar@gmail.com
 
-🌱 I’m currently learning JavaScript, React, React Native, Vue, and Typescript.  
+🌱 JavaScript, React, React Native, Vue, and Typescript.  
 
-👩‍💻 Studing frontend development @Mediainstitutet in Malmö 
+👩‍💻 Working as UX-designer and Fronend developer @Talkative in Malmö 
 <!--
 **marialundhammar/marialundhammar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
